@@ -1,4 +1,5 @@
-# HackOwls - ChatOwls - Koding Global Virtual Hackathon's Submission
+# HackOwls - ChatOwls
+#### Koding Global Virtual Hackathon's Submission
 
 ## ChatOwls
 
