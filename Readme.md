@@ -1,20 +1,25 @@
-# Koding Global Virtual Hackathon's Submission Example
+# HackOwls - ChatOwls - Koding Global Virtual Hackathon's Submission
 
-This is a sample submission repository for the hackathon. If you don't know what that is, please [go here](https://koding.com/Hackathon). You can fork this repo and use this as a starting point.
+## ChatOwls
 
-## Description
+### Description
 
-[![Koding Hackathon](/images/badge.png?raw=true "Koding Hackathon")](https://koding.com/Hackathon)
+[![Koding Hackathon](images/badge.png?raw=true "Koding Hackathon")](https://koding.com/Hackathon)
 
-A brief introduction to your project. It should include the motivation behind the project and also how it addresses the hackthon theme you've selected.
+The idea was to create an app to allow users to write messages in their language of choice and have those messages sent to the recipient and translated in the receipient's language of choice. 
 
-## Screenshots
+For example, you would write a message in your language of choice (i.e your native language) and the message will be sent to your friend and translated for your friend, in his/her own langauge of choice (i.e her/his native language).
 
-Here provide couple screenshots of your project. You can use a tool like https://monosnap.com/welcome or https://droplr.com to take a screenshot. Animated gifs are also welcome.
+In summary, the application will allow people who do not speak the same language to still be able to communicate. 
+Additionally, using interactive data visualization we would indicate the source and the destination of a message. 
+With this premise, we believe the application would address theme #5 and #1.
 
+### Screenshots
+TODO
 ![Koding](https://koding.com/a/site.landing/images/slideshow/2x/ss-terminal.png "Koding")
 ![Koding](https://koding.com/a/site.landing/images/slideshow/2x/ss-ide.png "Koding")
 
-## APIs used
-
-Provide a list of APIs you used in this project.
+### APIs used
+- Facebook auth using firebase
+- Yandex translate api
+- Firebase real-time api
