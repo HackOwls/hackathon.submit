@@ -16,7 +16,7 @@ With this premise, we believe the application would address theme #5 and #1.
 ### Screenshots
 TODO
 
-Inspiration: Norse IP Viking Live
+Interactive data visualization inspired by [Norse - IPViking Live](http://map.ipviking.com/)
 ![Norse IP Viking Live](http://s3.amazonaws.com/awesome_screenshot/6688399?AWSAccessKeyId=0R7FMW7AXRVCYMAPTPR2&Expires=1417875787&Signature=4%2FcZrS8H6ShpX3mc3CuWWv4%2Fhzg%3D "Norse IP Viking Live")
 
 ### APIs used
