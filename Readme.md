@@ -15,8 +15,9 @@ With this premise, we believe the application would address theme #5 and #1.
 
 ### Screenshots
 TODO
-![Koding](https://koding.com/a/site.landing/images/slideshow/2x/ss-terminal.png "Koding")
-![Koding](https://koding.com/a/site.landing/images/slideshow/2x/ss-ide.png "Koding")
+
+Inspiration: Norse IP Viking Live
+![Norse IP Viking Live](http://s3.amazonaws.com/awesome_screenshot/6688399?AWSAccessKeyId=0R7FMW7AXRVCYMAPTPR2&Expires=1417875787&Signature=4%2FcZrS8H6ShpX3mc3CuWWv4%2Fhzg%3D "Norse IP Viking Live")
 
 ### APIs used
 - Facebook auth using firebase
