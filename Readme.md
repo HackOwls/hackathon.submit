@@ -1,9 +1,7 @@
 # HackOwls - ChatOwls
 #### Koding Global Virtual Hackathon's Submission
 
-## ChatOwls
-
-### Description
+### ChatOwls - Description
 
 [![Koding Hackathon](images/badge.png?raw=true "Koding Hackathon")](https://koding.com/Hackathon)
 
