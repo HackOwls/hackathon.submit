@@ -5,7 +5,7 @@
 
 [![Koding Hackathon](images/badge.png?raw=true "Koding Hackathon")](https://koding.com/Hackathon)
 
-The idea was to create an app to allow users to write messages in their language of choice and have those messages sent to the recipient and translated in the receipient's language of choice. 
+The idea was to create an app to allow users to write messages in their language of choice and have those messages sent to the recipient and translated in the recipient's language of choice. 
 
 For example, you would write a message in your language of choice (i.e your native language) and the message will be sent to your friend and translated for your friend, in his/her own langauge of choice (i.e her/his native language).
 
